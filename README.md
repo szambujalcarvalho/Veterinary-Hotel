@@ -52,6 +52,7 @@ Veterinary-Hotel/
 │   ├── hva/
 │   │   ├── app/         Presentation layer and commands
 │   │   └── core/        Domain model and business logic
+│   │   └── pt/tecnico/uilib/ Course-provided UI framework
 │   └── META-INF/
 ├── docs/
 │   └── uml-design.pdf   UML document from the first project delivery
